@@ -1,6 +1,8 @@
 # JBWUC
 Growing up. Making Moves.
 
+Authors: cvwang
+
 Ughhh why is this git so confusing time to learn more git. 
 
 Name: HandyMan? 
