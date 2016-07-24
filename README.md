@@ -12,14 +12,11 @@ A car rental service that connects people who are in need of renting cars to peo
 
 <h3> Inspiration </h3>
 
-Our service draws inspiration from reknowned service mediums: Airbnb and Uber. We hope we can not only enable people to have the ability to travel and explore freely and for ... wait gonna check if the html tags work on this readme
+Our service draws inspiration from reknowned service mediums: Airbnb and Uber. We hope we can not only enable people to have the ability to travel and explore freely and for...
 
 <h3> Resources To Accomplish and Their Usages </h3> 
     <h4> Front End </h4>
-      <a href="https://domains.google/"> Get Our Domain Here? </a>
-      <a href="http://api.jquery.com/"> JQuery </a>
-
-    <h4> Back End </h4> 
+     
     
 
 <h3> Research </h3>
