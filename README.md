@@ -14,6 +14,9 @@ A car rental service that connects people who are in need of renting cars to peo
 
 Our service draws inspiration from reknowned service mediums: Airbnb and Uber. We hope we can not only enable people to have the ability to travel and explore freely and for ... wait gonna check if the html tags work on this readme
 
+<h3> Resources To Accomplish Front/Backend </h3> 
+
+
 
 <h3> Research </h3>
 
