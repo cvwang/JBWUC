@@ -16,8 +16,8 @@ Our service draws inspiration from reknowned service mediums: Airbnb and Uber. W
 
 <h3> Resources To Accomplish and Their Usages </h3> 
     <ol><h4> Front End </h4>
-      <li><a href="https://domains.google/"> Get Our Domain Here? </a>
-      <li><a href="http://api.jquery.com/"> JQuery </a>
+      <li><a href="https://domains.google/"> Get Our Domain Here? </a></li>
+      <li><a href="http://api.jquery.com/"> JQuery </a></li>
         <p> Usage ... </p> 
       <h4> Back End </h4> 
     </ol>
