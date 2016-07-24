@@ -1,4 +1,4 @@
-# <h1> JBWUC
+<h1> JBWUC
 Growing up. Making Moves. </h1>
 
 <h2> Authors and Developers: cvwang, rtchen </h2>
