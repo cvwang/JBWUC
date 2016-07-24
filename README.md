@@ -1,7 +1,8 @@
-<h1> JBWUC
-Growing up. Making Moves. </h1>
+<h1> JBWUC. Growing up. Making Moves. </h1>
 
-<h2> Authors and Developers: cvwang, rtchen </h2>
+<h2> Authors and Developers: 
+  <a href = "https://github.com/cvwang"> cvwang </a>
+  <a href = "https://github.com/ryantc94"> rtchen </a>
 
 <h2> Name: </h2>
 
