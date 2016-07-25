@@ -16,12 +16,14 @@ Our service draws inspiration from reknowned service mediums: Airbnb and Uber. W
 
 <h3> Resources To Accomplish and Their Usages </h3> 
   <h4> Front End </h4>
-     
     
+     
+  <h4> Back End </h4>
 
 <h3> Research </h3>
 
 <a href="http://mean.io/"> Mean Stack </a>
+  <a href="https://www.youtube.com/watch?v=Jh0er2pRcq8"> Tutorial </a>
 
 <a href="http://techstacks.io/airbnb"> Airbnb Stack </a>
 
