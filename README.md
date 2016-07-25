@@ -23,7 +23,7 @@ Our service draws inspiration from reknowned service mediums: Airbnb and Uber. W
 <h3> Research </h3>
 
 <a href="http://mean.io/"> Mean Stack </a>
-  <a href="https://www.youtube.com/watch?v=Jh0er2pRcq8"> Tutorial </a>
+  <p><a href="https://www.youtube.com/watch?v=Jh0er2pRcq8"> Tutorial </a></p>
 
 <a href="http://techstacks.io/airbnb"> Airbnb Stack </a>
 
