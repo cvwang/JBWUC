@@ -28,3 +28,5 @@ Our service draws inspiration from reknowned service mediums: Airbnb and Uber. W
 <a href="http://techstacks.io/airbnb"> Airbnb Stack </a>
 
 <a href="http://www.businessinsider.com/airbnb-a-13-billion-dollar-startups-first-ever-pitch-deck-2011-9#-1"> Airbnb first pitch </a>
+
+<a href="https://designshack.net/articles/graphics/an-introduction-to-animation-in-web-design/"> Animation Resources </a>
